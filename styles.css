@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+#maintitle {
+    color: red;
+    font-family: 'Nosifer', cursive;
+    text-align: center;
+    font-size: 60px;
+}
+h1 {
+      color:maroon;
+      text-align: center;
+}
+p {
+    color: blanchedalmond;
+    text-align: center;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+p.intro {
+    color: blanchedalmond;
+    text-align: center;
+    font-size: large;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+}
+footer {
+    padding: 50px;
+    text-align: center;
+}
+article {
+    padding-top: 30px;
+}
